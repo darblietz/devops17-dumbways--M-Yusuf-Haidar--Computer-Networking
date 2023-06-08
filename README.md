@@ -1,1 +1,3 @@
-# devops17-dumbways--M-Yusuf-Haidar--Computer-Networking
+# Task Computer Networking
+#### 1. Perbedaan antara IP Private & Public, serta IP Dynamic & Static!
+- Perbedaan IP Private & Public : <br/> ![IP Private vs Public](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar--Computer-Networking/assets/98991080/2fcfff41-f5b2-4d08-8d26-68c476a4fc4b)<br/> 1. Jaringan yang dibentuk Private lebih hanya diperuntukkan yang mempunyai akses ke Jaringan Lokal. Sedangkan Jaringan Publik boleh digunakan oleh semua orang atau secara Global. <br/> 2. Pengelola jaringan Private dikelola oleh ISP seperti Indihome, Biznet, dll. Beda halnya dengan Pengelolaan jaringan Public dikelola oleh Administrator jaringan seperti Router Wi-Fi.<br/> 3. Jaringan Private bila terhubung akan langsung mendapatkan Akses Internet. Sedangkan jaringan Public belum tentu mendapatkan akses internet.
