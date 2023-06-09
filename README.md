@@ -8,8 +8,8 @@
 #### 2. Buat rancangan sebuah jaringan dengan spesifikasi sebagai berikut!<br/> 
 - CIDR Block : 192.168.xxx/24<br/> 
 - Subnet : 255.255.255.0<br/> 
-- Gateway : 192.168.1.1
+- Gateway : 192.168.1.1<br/>
+![Rancangan Jaringan Real](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Computer-Networking/assets/98991080/58bac4a8-fbc8-438c-9468-e2dba3edbffa)
 
-![Rancangan Jaringan](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar--Computer-Networking/assets/98991080/6e0a0498-0e89-4e63-85bf-b35217893b58)
 
 
